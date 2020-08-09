@@ -15,7 +15,13 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+
 }
+
+* {
+    font-family: Georgia, serif;
+}
+
 
 header {
     position: fixed;
@@ -46,7 +52,7 @@ header nav ul li {
 
 header a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 main {
